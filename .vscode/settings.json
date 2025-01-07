@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "D:/MERN DEV/100X DEV/Projects/Chat App/chat_app/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
